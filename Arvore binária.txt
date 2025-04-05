@@ -1,0 +1,26 @@
+Arvore binária de busca , tem uma regra para inserir que permite uma busca mais eficiente
+
+Arvore binária tem Grau 2 , uma para um lado outra para o outro.
+
+Não podemos repetir valores em uma arvore, se tentarmos inserir um valor igual a arvore deverá negar.
+
+Assim como nas lista, não manipulamos valores mas sim elementos.
+
+
+PERCORRER A Arvore
+
+percorrer arvore sem repetir os elementos
+- preordem   RED
+- inordem    ERD 
+- posordem   EDR
+
+
+R = Raiz   | E = vá para direita  | E = Vá para esquerda
+
+
+
+
+
+
+
+
