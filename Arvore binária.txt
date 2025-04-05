@@ -6,14 +6,16 @@ Não podemos repetir valores em uma arvore, se tentarmos inserir um valor igual 
 
 Assim como nas lista, não manipulamos valores mas sim elementos.
 
+* Regra de inserção 
+Valor da raiz (sub raiz) - elemento
+Se menor -> adiciona na esquerda
+Se maior -> adiciona na direita
 
-PERCORRER A Arvore
-
+* PERCORRER A Arvore
 percorrer arvore sem repetir os elementos
 - preordem   RED
 - inordem    ERD 
 - posordem   EDR
-
 
 R = Raiz   | E = vá para direita  | E = Vá para esquerda
 
